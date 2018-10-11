@@ -20,7 +20,10 @@ Here in the US, healthcare is sometimes amazing, often lifesaving, always expens
 ```because our lives depend on it.```
 
 
+Read our open source ethos,  
+with contributing articles by [**Jane Sarasohn-Kahn**](https://www.healthpopuli.com/2018/10/11/open-source-health-care-will-liberate-patients/) and [**Eric Topol**](https://twitter.com/EricTopol).
 
+![Photo of OSHC Journal on Desk](/img/oshc_journal_desk_sm.jpg)
 
 Download the [Open Source Healthcare Journal (25 MB PDF)](https://www.dropbox.com/s/ozixx5mmki3xcvi/opensourcehealthcare_journal.pdf?dl=0),  
 [e-reader journal] (TBD), or  
