@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Open Source Healthcare
 
-You can use the [editor on GitHub](https://github.com/goinvo/opensourcehealthcare/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### We Must Set Healthcare Free
 
-### Markdown
+Open source is something that anyone can change and share, because it’s publicly available under a generous license. While it first began with computer code, open source now influences how projects and businesses work, and our lives benefit from this open sharing. Open source has grown into a way of participating with many others that asks for transparency, community-based collaboration, and meritocracy. The best ideas float to the top, and you earn trust by what you do and how you amplify the group.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our internet is infused with open source ideas and services — from
+how cell phones communicate, to how e-mail is directed from one person to the next, to Linux. All of these technologies working together are the operating system of the internet.
 
-```markdown
-Syntax highlighted code block
+Here in the US, healthcare is sometimes amazing, often lifesaving, always expensive, and mostly closed. It’s tribal at its core — each hospital, each doc, each healthcare system invents its own way — to the detriment of our collective health.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# We have open standards for finance
+because we value our money more than our health.
+# We have open standards for transportation
+because getting to your destination is a necessity.
+# We need open standards for healthcare
+because our lives depend on it.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goinvo/opensourcehealthcare/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Open Source Healthcare Journal](https://www.dropbox.com/s/ozixx5mmki3xcvi/opensourcehealthcare_journal.pdf?dl=0)
