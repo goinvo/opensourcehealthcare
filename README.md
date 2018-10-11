@@ -22,8 +22,8 @@ Here in the US, healthcare is sometimes amazing, often lifesaving, always expens
 
 
 
-Download the [Open Source Healthcare Journal (25 MB PDF)](https://www.dropbox.com/s/ozixx5mmki3xcvi/opensourcehealthcare_journal.pdf?dl=0),
-[e-reader journal] (TBD), or
+Download the [Open Source Healthcare Journal (25 MB PDF)](https://www.dropbox.com/s/ozixx5mmki3xcvi/opensourcehealthcare_journal.pdf?dl=0),  
+[e-reader journal] (TBD), or  
 [free on Amazon] (TBD Amazon).
 
 
@@ -31,30 +31,32 @@ Download the [Open Source Healthcare Journal (25 MB PDF)](https://www.dropbox.co
 
 ### Open Source Healthcare Missionette
 
-We live in a closed healthcare system. The algorithms that drive our care,  
+We live in a closed healthcare system.  
+The algorithms that drive our care,  
 to our clinical and life data,  
 to hospital and treatment pricing,  
 are governed by blackbox services.  
 
 By using these closed systems,  
-we are actively designed out . 
+we are actively designed out   
 of the decision-making process,    
-in favor of corporate “optimized care” . 
+in favor of corporate “optimized care”   
 for optimized returns vs optimized health outcomes.  
-The crooked biases built into software, implemented with intent or accidentally,  
+The crooked biases built into software,  
+implemented with intent or accidentally,  
 need interrogation, citizen collaboration, and correction.  
 
 It’s our health.  
 Our very lives are at stake.  
 
-We demand that our healthcare services be open . 
+We demand that our healthcare services be open  
 to inspect and correct bias,  
 to be accessible for rapid innovation and evolution,  
-and to become more valuable as . 
-more patients, clinicians, clinics, companies, and . 
+and to become more valuable as  
+more patients, clinicians, clinics, companies, and  
 governments engage in healthcare for all.  
 
 ## Go Open, GoInvo
 
-Let's work together on crafting beautiful Health IT software together.
+Let's work together on crafting beautiful Health IT software together.  
 For feedback and working together, please email us at [hello@goinvo.com](mailto:hello@goinvo.com)
