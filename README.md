@@ -29,7 +29,9 @@ Download the [Open Source Healthcare Journal (25 MB PDF)](https://www.dropbox.co
 E-reader journal (available Wed 17.Oct.18), or  
 Free digital + $14 physical copy on Amazon (also live on Wed 17.Oct.18).
 
-
+  
+    
+      
 
 
 ### Open Source Healthcare Missionette
@@ -58,8 +60,10 @@ to be accessible for rapid innovation and evolution,
 and to become more valuable as  
 more patients, clinicians, clinics, companies, and  
 governments engage in healthcare for all.  
-
+  
+    
+      
 ## Go Open, GoInvo
 
 Let's work together on crafting beautiful Health IT software together.  
-For feedback and working together, please email us at [hello@goinvo.com](mailto:hello@goinvo.com)
+For feedback or to jam together, please email us at [hello@goinvo.com](mailto:hello@goinvo.com)
