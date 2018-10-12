@@ -26,8 +26,8 @@ with contributing articles by [**Jane Sarasohn-Kahn**](https://www.healthpopuli.
 ![Photo of OSHC Journal on Desk](/img/oshc_journal_desk_sm.jpg)
 
 Download the [Open Source Healthcare Journal (25 MB PDF)](https://www.dropbox.com/s/ozixx5mmki3xcvi/opensourcehealthcare_journal.pdf?dl=0),  
-[e-reader journal] (available Wed 17.Oct.18), or  
-[free on Amazon] (also live on Wed 17.Oct.18).
+E-reader journal (available Wed 17.Oct.18), or  
+Free digital + $14 physical copy on Amazon (also live on Wed 17.Oct.18).
 
 
 
