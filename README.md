@@ -9,7 +9,13 @@ Open source is something that anyone can change and share, because it’s public
 Our internet is infused with open source ideas and services — from
 how cell phones communicate, to how e-mail is directed from one person to the next, to Linux. All of these technologies working together are the operating system of the internet.
 
-Here in the US, healthcare is sometimes amazing, often lifesaving, always expensive, and mostly closed. It’s tribal at its core — each hospital, each doc, each healthcare system invents its own way — to the detriment of our collective health.
+Here in the US, healthcare is   
+sometimes amazing,  
+often lifesaving,  
+always expensive,  
+and mostly closed.  
+
+It’s tribal at its core — each hospital, each doc, each healthcare system invents its own way — to the detriment of our collective health.
 
 
 ## We have open standards for finance
